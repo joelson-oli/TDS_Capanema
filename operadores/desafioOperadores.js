@@ -13,5 +13,15 @@ let a = 10;
 let b = 20;
 
 // valores true
+console.log(a < b);
+console.log(a != b);
+console.log(a <= b);
+console.log(b >= a);
+console.log(b != a);
 
 // valores false
+console.log(a > b);
+console.log(a =! b);
+console.log(a >= b);
+console.log(b <= a);
+console.log(b == a);
